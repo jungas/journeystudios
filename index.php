@@ -6,7 +6,7 @@
    <body>
       
       <?php
-         echo "<h1>Hello,Journey Studios!</h1>";
+         echo "<h1>Hello, Journey Studios!</h1>";
       ?>
    
    </body>
