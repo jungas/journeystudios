@@ -1,3 +1,3 @@
 <?php
-echo "Journey Studios"
+echo <h1>"Journey Studios"<h1>
 ?>
