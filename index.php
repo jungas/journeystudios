@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>Journey Studios/title>      
+      <title>Journey Studios</title>      
    </head>
    
    <body>
