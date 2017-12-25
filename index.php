@@ -1,3 +1,13 @@
-<?php
-echo <h1>"Journey Studios"</h1>
-?>
+<html>
+   <head>
+      <title>Journey Studios/title>      
+   </head>
+   
+   <body>
+      
+      <?php
+         echo "<h1>Hello,Journey Studios!</h1>";
+      ?>
+   
+   </body>
+</html>
